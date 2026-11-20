@@ -5,7 +5,7 @@ function App() {
     <div>
       <h1>Student Directory</h1>
       <StudentProfileCard
-        name="WONGDF2006"
+        name="WongDengFoong"
         studentId="202699475"
         major="Computer Engineering"
         year={3}
